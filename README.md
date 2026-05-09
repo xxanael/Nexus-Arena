@@ -62,7 +62,7 @@ Le joueur peut enregistrer ses scores dans un fichier `scores.txt`.
 ---
 
 ## 👨‍💻 AUTEUR
-**Anaël SINGBO**
+**Anaël**
 
 ---
 
